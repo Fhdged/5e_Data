@@ -5,8 +5,13 @@ Dungeons and Dragons is a game of numbers. Success and failure is determined by 
 For each primary ability I created a density chart to show the distribution of their stats. From my data I discovered that Wisdom saving throws are typically the safest bet. The vast majority of monster stats fall between 10-15, which is a rather easy target to hit at higher level especially.
 
 Strength density - https://user-images.githubusercontent.com/86172092/145188697-f3a98d26-e48f-494f-b1c7-c1b4527d1e4f.png
+
 Dexterity density - https://user-images.githubusercontent.com/86172092/145188783-43ce0de7-8d07-475a-af4e-561fbaac8615.png
+
 Constitution density - https://user-images.githubusercontent.com/86172092/145188822-b7466161-ba32-48a9-8dd5-d7134242b89f.png
+
 Intellect density - https://user-images.githubusercontent.com/86172092/145188891-439ef1f8-f350-4835-a22c-7cfe4d807d94.png
+
 Wisdom density - https://user-images.githubusercontent.com/86172092/145188956-61ffc785-9ed2-4a4c-989b-a0aa9c1e00f2.png
+
 Charisma density - https://user-images.githubusercontent.com/86172092/145189004-a9d088e9-e3eb-4cd5-974a-85d6691bfab1.png
